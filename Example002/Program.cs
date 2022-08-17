@@ -10,6 +10,7 @@ namespace Example002
             string username = Console.ReadLine();
             Console.Write("Привет, ");
             Console.Write(username);
+            //  ебучий гитигнор 
         }
     }
 }
